@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tipcalc</string>
+    <string name="editTextValue">Amount</string>
+</resources>
